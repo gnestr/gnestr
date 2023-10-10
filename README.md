@@ -13,7 +13,11 @@ I use GitHub to store all of my classwork for my programming classes!
 I'd love to be a software engineer in the future, and look forward to creating and contributing to projects!
 
 ## 🚀 Contact me
-You can reach me at my email: grco5816@colorado.edu
+You can reach me at my email: grco5816@colorado.edu  
+
+here is how much time I've been spending in VSCode if you're curious
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 gnestr/gnestr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
