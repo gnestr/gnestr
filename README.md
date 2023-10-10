@@ -17,6 +17,11 @@ You can reach me at my email: grco5816@colorado.edu
 
 here is how much time I've been spending in VSCode if you're curious
 <!--START_SECTION:waka-->
+
+```txt
+C++   18 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---
