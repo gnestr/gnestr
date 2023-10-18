@@ -19,10 +19,11 @@ here is how much time I've been spending in VSCode if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-C++              3 hrs 14 mins   ████████████████████████▓   98.36 %
-Ezhil            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C++              5 hrs 39 mins   ████████████████████████▒   97.88 %
+Ezhil            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+ActionScript 3   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Objective-C      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
