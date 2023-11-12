@@ -19,11 +19,11 @@ here is how much time I've been spending in VSCode this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-C++           12 hrs 49 mins  ████████████████████████▒   97.70 %
-JSON          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Git           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Text          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-JavaScript    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C++          17 hrs 19 mins  ████████████████████████▓   98.10 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Git          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
