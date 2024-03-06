@@ -19,7 +19,8 @@ here is how much time I've been spending in VSCode this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++   1 min           ██████████████████████░░░   87.50 %
+CSV   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
 ```
 
 <!--END_SECTION:waka-->
