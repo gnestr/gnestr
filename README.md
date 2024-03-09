@@ -19,8 +19,9 @@ here is how much time I've been spending in VSCode this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-C++   1 hr 11 mins    █████████████████████████   99.76 %
-CSV   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C++    2 hrs 28 mins   ████████████████████████▓   99.14 %
+JSON   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+CSV    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
