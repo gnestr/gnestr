@@ -21,7 +21,7 @@ here is how much time I've been spending in an IDE this week if you're curious
 ```txt
 Java             3 hrs 1 min     ████████████████████████▒   97.89 %
 GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-C++              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+C++              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 CLASS            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
