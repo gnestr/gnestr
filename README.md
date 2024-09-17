@@ -1,7 +1,7 @@
 
 # hi there
 
-I am Grant, a first year CS student at CU Boulder 👋  
+I am Grant, a second year CS student at CU Boulder 👋  
 ![image](https://assets-sports.thescore.com/football/team/164/logo.png)
 
 ## I'm currently learning
@@ -11,9 +11,6 @@ I am Grant, a first year CS student at CU Boulder 👋
 
 I use GitHub to store all of my classwork for my programming classes.
 I'd love to be a software engineer in the future, and look forward to creating and contributing to projects!
-
-## 🚀 Contact me
-You can reach me at my email: grco5816@colorado.edu  
 
 here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
