@@ -16,7 +16,9 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             57 mins         ██████████████████████░░░   88.10 %
+JSON             3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+GitIgnore file   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 ```
 
 <!--END_SECTION:waka-->
