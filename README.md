@@ -16,10 +16,10 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 18 mins    ███████████████████████▓░   94.32 %
-IDEA_MODULE      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-XML              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Java             29 mins         █████████████████████▓░░░   86.05 %
+IDEA_MODULE      2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+XML              2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
