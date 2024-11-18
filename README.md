@@ -16,8 +16,8 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Java   4 hrs 21 mins   ████████████████████████░   96.28 %
-C++    10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Java   3 hrs 55 mins   ████████████████████████░   96.43 %
+C++    8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
