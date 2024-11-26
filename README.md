@@ -5,7 +5,7 @@ I am Grant, a second year CS student at CU Boulder 👋
 ![image](https://assets-sports.thescore.com/football/team/164/logo.png)
 
 ## I'm currently learning
-[![CPP](https://skillicons.dev/icons?i=cpp,java,ts)](https://skillicons.dev)
+[![CPP](https://skillicons.dev/icons?i=java,cpp,ts)](https://skillicons.dev)
 
 I use GitHub to store all of my classwork for my programming classes.
 I'd love to be a software engineer in the future, and look forward to creating and contributing to projects!
