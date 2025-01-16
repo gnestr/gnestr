@@ -14,7 +14,11 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             18 mins         █████████████░░░░░░░░░░░░   51.71 %
+Python           16 mins         ███████████▓░░░░░░░░░░░░░   46.55 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
