@@ -14,7 +14,11 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 1 min      █████████████████████████   100.00 %
+Java       1 hr 27 mins    ████████████▓░░░░░░░░░░░░   51.26 %
+Python     1 hr 1 min      █████████░░░░░░░░░░░░░░░░   36.28 %
+JSON       17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+textmate   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
