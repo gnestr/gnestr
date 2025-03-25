@@ -14,11 +14,11 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-C            3 hrs 23 mins   █████████████████████░░░░   83.34 %
-Git Config   39 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C            3 hrs 18 mins   ██████████████████████░░░   88.08 %
+Git Config   26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
