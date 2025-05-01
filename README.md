@@ -14,10 +14,10 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog            2 hrs 24 mins   ████████████████▓░░░░░░░░   66.13 %
-Perl              1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   28.65 %
-textmate          11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-V                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Prolog            2 hrs 24 mins   ████████████████▒░░░░░░░░   65.98 %
+Perl              1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   28.58 %
+textmate          11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+V                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
