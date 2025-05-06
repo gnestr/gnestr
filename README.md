@@ -14,10 +14,7 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog       2 hrs 24 mins   █████████████████▒░░░░░░░   69.71 %
-Perl         1 hr 2 mins     ███████▓░░░░░░░░░░░░░░░░░   30.20 %
-V            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
