@@ -1,7 +1,7 @@
 
 # hi there
 
-I am Grant, a second year CS student at CU Boulder 👋  
+I am Grant, a third year CS student at CU Boulder 👋  
 ![image](https://assets-sports.thescore.com/football/team/164/logo.png)
 
 ## I'm currently learning
