@@ -14,8 +14,7 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog   0 secs          ████████████████████▒░░░░   81.37 %
-C++      0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
+C++   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
