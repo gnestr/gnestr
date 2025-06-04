@@ -14,7 +14,7 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
