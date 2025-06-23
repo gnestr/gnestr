@@ -14,11 +14,11 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-C++               8 hrs 42 mins   █████████████████████░░░░   83.89 %
-C                 58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Other             30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Java              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Makefile          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+C++               8 hrs 42 mins   ████████████████████████░   95.48 %
+Other             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Java              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Makefile          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
