@@ -14,8 +14,7 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 mins          ███████████████▓░░░░░░░░░   62.98 %
-JSON         2 mins          █████████▒░░░░░░░░░░░░░░░   37.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
