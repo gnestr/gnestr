@@ -14,7 +14,8 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Python   22 mins         █████████████████████████   100.00 %
+Python   1 hr 40 mins    █████████████████████████   99.96 %
+HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
