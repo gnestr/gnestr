@@ -14,7 +14,8 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Java   4 hrs 6 mins    █████████████████████████   100.00 %
+Java         5 hrs 17 mins   ███████████████████████░░   91.59 %
+Git Config   29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
 ```
 
 <!--END_SECTION:waka-->
