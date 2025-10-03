@@ -14,10 +14,11 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Java         7 hrs 37 mins   ████████████████████████▓   98.48 %
-Python       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java              7 hrs 39 mins   ███████████████████▓░░░░░   78.80 %
+Python            2 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JAVA              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
