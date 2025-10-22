@@ -14,11 +14,9 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Java              5 hrs 55 mins   ███████████████████████▓░   94.35 %
-Text              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-JSON              8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   4 hrs 37 mins   ███████████████████████▒░   93.51 %
+Text   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+JSON   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
