@@ -14,9 +14,9 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Other   15 mins         ████████████░░░░░░░░░░░░░   47.74 %
-Java    9 mins          ███████░░░░░░░░░░░░░░░░░░   28.62 %
-JSON    7 mins          ██████░░░░░░░░░░░░░░░░░░░   23.64 %
+Other   15 mins         ████████████▓░░░░░░░░░░░░   51.33 %
+Java    7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
+JSON    6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
 ```
 
 <!--END_SECTION:waka-->
