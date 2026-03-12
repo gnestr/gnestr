@@ -15,7 +15,7 @@ here is how much time I've been spending in an IDE this week if you're curious
 
 ```txt
 Java              1 hr 26 mins          █████████████▓░░░░░░░░░░░   54.93 %
-Groovy            24 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Groovy            24 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
 C++               13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
 Java Properties   11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
 Gradle            10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
