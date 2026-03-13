@@ -14,11 +14,11 @@ here is how much time I've been spending in an IDE this week if you're curious
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 26 mins          █████████████▓░░░░░░░░░░░   54.93 %
-Groovy            24 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-C++               13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Java Properties   11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Gradle            10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+C++               9 hrs 13 mins         ███████████████████▓░░░░░   78.65 %
+Java              1 hr 26 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Groovy            24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Text              15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Java Properties   11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
